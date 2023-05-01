@@ -1,0 +1,7 @@
+.nav-item:hover {
+    opacity: .8;
+    background-color: lightgrey;
+}
+.form-control {
+    width: 40%;
+}
