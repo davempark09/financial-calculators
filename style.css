@@ -5,3 +5,13 @@
 .form-control {
     width: 40%;
 }
+.specialColor {
+    background: white;
+}
+.notSpecial {
+    background: lightgrey;
+    width: 10%;
+}
+#colorForm {
+    width: 100%;
+}
